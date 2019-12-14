@@ -1,0 +1,3 @@
+import QuadraticEquation
+
+QuadraticEquation.wyswietlPierwiastki(QuadraticEquation.obliczPierwiastki(QuadraticEquation.wczytajWspolczynniki()))
