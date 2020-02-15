@@ -14,7 +14,7 @@ class Termometr:
     
     def pomiar(self):
         if self.is_on == True:
-            self.temperature = round(random.uniform(34.0, 42.1), 1)
+            self.temperature = round(random.uniform(34.0, 42.0), 1)
             
     def wyswietl(self):
         if self.is_on == True:
